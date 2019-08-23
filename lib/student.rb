@@ -9,4 +9,9 @@ end
 def learn(name)
   @knowledge << name
 end
+
+def knowledge
+  @knowledge
+end
+
 end
